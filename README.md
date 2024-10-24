@@ -51,6 +51,8 @@ Note the `.devcontainer/devcontainer.json` file, which configures the environmen
 - Port forwarding, etc.
 - Other features available
 
+Here is a [**Devcontainer running R and Quarto**](https://github.com/UVADS/r-devcontainer)
+
 ## 2. GitHub Codespaces :octocat:
 
 Built into the GitHub UI is a web-based dev environment that is free to use. In some ways this makes the perfect fallback environment for any student experiencing issues on their local workstation. Codespaces can be partially configured using the `devcontainer.json` file from above.
